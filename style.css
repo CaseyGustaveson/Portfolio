@@ -43,3 +43,9 @@ p{
 .home_text{
     font-size:larger;
 }
+article{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: darkred;
+}
