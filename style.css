@@ -1,0 +1,42 @@
+html{ 
+    background-color: beige;
+}
+nav.boxes ul{
+    display:flex;
+    padding:0;
+    justify-content: center;
+}
+nav.boxes ul li{
+    list-style-type: none;
+    border: 2px solid black; /* Add borders */
+    margin-right: 10px;
+    background-color: silver;
+    
+}
+.navigation{
+    display:inline-block
+}
+
+.image-container{
+    text-align: center;
+}
+.image-container img{
+    max-width: 50%;
+    height: auto;
+    display:block;
+    margin: 0 auto;
+}
+nav.boxes ul li a {
+    display: block;
+    padding: 10px; /* Adjust padding as needed */
+    text-decoration: none;
+    color: black;
+}
+nav.boxes ul li a:hover{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif
+}
+p{
+    text-align: center;
+    font-weight: bolder;
+}
