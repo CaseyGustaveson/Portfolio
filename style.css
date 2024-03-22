@@ -50,7 +50,3 @@ article{
     font-weight: bolder;
     color: darkred;
 }
-#totalContact{
-display:flex;
-flex-direction: column;
-}
