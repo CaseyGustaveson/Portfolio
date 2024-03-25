@@ -48,7 +48,15 @@ article{
     text-align: center;
     font-size: xx-large;
     font-weight: bolder;}
-input{
+#totalContact{
     display:flex;
-    flex-direction: 
+flex-direction:column;
+align-items: center;}
+
+form{
+    display:flex;
+    flex-direction: column;
+}
+label{
+    text-align: center;
 }
